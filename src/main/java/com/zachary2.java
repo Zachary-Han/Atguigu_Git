@@ -15,5 +15,6 @@ public class zachary2 {
         System.out.println("dev3");
         System.out.println("dev4");
         System.out.println("push");
+        System.out.println("push2");
     }
 }
