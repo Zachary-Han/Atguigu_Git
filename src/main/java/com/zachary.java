@@ -9,5 +9,7 @@ package com;
 public class zachary {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("zachary");
+        System.out.println("zachary2");
     }
 }
